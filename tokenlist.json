@@ -8,7 +8,7 @@
         "chainId": 44787,
         "address": "0x589B5f8a70DA207e1508999A9fcBA2A1E4501Dfc",
         "name": "Celo WLP",
-        "symbol": "CL-ETH WLP",
+        "symbol": "WLP",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/LiquiLadies/TokenList/main/assets/CL.png"
       }
