@@ -5,12 +5,12 @@
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
       {
-        "chainId": 5167003,
-        "address": "0x259444F838874C455fe5B5E8fdb858ecC2Ea7911",
-        "name": "Ride Token",
-        "symbol": "RIDE",
+        "chainId": 44787,
+        "address": "0x589B5f8a70DA207e1508999A9fcBA2A1E4501Dfc",
+        "name": "Celo WLP",
+        "symbol": "CL-ETH WLP",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/bicycle.svg"
+        "logoURI": "https://raw.githubusercontent.com/LiquiLadies/TokenList/main/assets/CL.png"
       }
     ],
     "version": {
