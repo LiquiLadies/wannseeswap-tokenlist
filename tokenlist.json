@@ -8,7 +8,7 @@
         "chainId": 44787,
         "address": "0x068B5149E4300942F019F0641dc50fcFedB94C66",
         "name": "CeloPool",
-        "symbol": "CL",
+        "symbol": "CP",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/LiquiLadies/TokenList/main/assets/CL.png"
       }
