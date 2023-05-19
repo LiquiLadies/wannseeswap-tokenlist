@@ -1,6 +1,6 @@
 {
     "name": "Celo Tokens",
-    "logoURI": "https://raw.githubusercontent.com/LiquiLadies/TokenList/main/assets/CL.png",
+    "logoURI": "https://raw.githubusercontent.com/LiquiLadies/wannseeswap-tokenlist/main/assets/CL.png",
     "keywords": ["celo", "pool", "defi"],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
@@ -10,7 +10,7 @@
         "name": "CeloPool",
         "symbol": "CP",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/LiquiLadies/TokenList/main/assets/CL.png"
+        "logoURI": "https://raw.githubusercontent.com/LiquiLadies/wannseeswap-tokenlist/main/assets/CL.png"
       }
     ],
     "version": {
