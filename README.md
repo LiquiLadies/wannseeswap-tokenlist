@@ -1,1 +1,1 @@
-# wannseeswap-tokenlist
+# celopool-tokenlist
